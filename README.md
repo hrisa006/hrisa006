@@ -8,7 +8,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrisa006&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-### Languages and Tools:
+## Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,html,css,js,react,vite,mysql,ps)](https://skillicons.dev) <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/512px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" width="48" height="48" style=""></img></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrisa006&layout=compact&theme=catppuccin_mocha)

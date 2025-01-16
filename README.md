@@ -6,7 +6,7 @@
 🌱 Currently learning React.js & React Native</br>
 <!--<br></br>-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrisa006&show_icons=true&theme=catppuccin_mocha)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrisa006&show_icons=true&theme=tokyonight)
 
 ## Languages and Tools:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cpp,java,html,css,js,react,vite,mysql,ps,lightroom,inkscape)

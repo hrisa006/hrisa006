@@ -5,7 +5,7 @@
 🪄 Having passion for Web Development and Web Design</br>
 🌱 Currently learning React.js & React Native</br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrisa006&show_icons=true&theme=tokyo)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrisa006&show_icons=true&theme=catppuccin_mocha)
 
 ## Languages and Tools:
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cpp)](https://github.com/hrisa006/Introduction_in_Programming) &nbsp;[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java)](https://github.com/hrisa006/Pharmacy_Database) &nbsp;[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,react,vite)](https://github.com/hrisa006/React-Project-Management) &nbsp;[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql)]([https://github.com/hrisa006/Introduction_in_Programming](https://github.com/hrisa006/Pharmacy_Database)) &nbsp;[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ps,lightroom,inkscape)](https://github.com/hrisa006/Graphic-Design)

@@ -5,9 +5,9 @@
 🪄 Having passion for Web Development and Web Design</br>
 🌱 Currently learning React.js & React Native</br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrisa006&show_icons=true&theme=catppuccin_mocha)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrisa006&show_icons=true&theme=radical)
 
 ## Languages and Tools:
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cpp)](https://github.com/hrisa006/Introduction_in_Programming) &nbsp;[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java)](https://github.com/hrisa006/Pharmacy_Database) &nbsp;[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,react,vite)](https://github.com/hrisa006/React-Project-Management) &nbsp;[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql)]([https://github.com/hrisa006/Introduction_in_Programming](https://github.com/hrisa006/Pharmacy_Database)) &nbsp;[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ps,lightroom,inkscape)](https://github.com/hrisa006/Graphic-Design)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cpp)](https://github.com/hrisa006/Introduction_in_Programming) &nbsp;[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java)](https://github.com/hrisa006/Pharmacy_Database) &nbsp;[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js)](https://github.com/hrisa006/Bussin) &nbsp;[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,react,vite)](https://github.com/hrisa006/React-Project-Management) &nbsp;[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql)]([https://github.com/hrisa006/Introduction_in_Programming](https://github.com/hrisa006/Pharmacy_Database)) &nbsp;[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ps,lightroom,inkscape)](https://github.com/hrisa006/Graphic-Design)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrisa006&layout=compact&theme=catppuccin_mocha)
